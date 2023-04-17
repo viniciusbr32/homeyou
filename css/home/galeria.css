@@ -1,0 +1,38 @@
+.gallery-bg {
+
+  background: var(--white-200);
+  text-align: center;
+}
+
+.gallery-conteudo {
+
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+  padding: 5rem 0;
+  
+
+}
+
+.gallery-imgs {
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  overflow-y: auto;
+}
+
+.gallery-imgs .img-gallery {
+
+  max-width: 396px;
+  height: 550px;
+}
+
+
+.h3-gallery {
+
+  margin-bottom: 1.2rem;
+}
+
+.p-gallery {
+  margin-bottom: 3.2rem;
+}

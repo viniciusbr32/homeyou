@@ -1,0 +1,34 @@
+* {
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+a{
+  color: inherit;
+}
+
+.container {
+
+  max-width: 1400px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 0 auto;
+}
+
+
+body {
+
+  font-family: 'Montserrat', sans-serif;
+  
+
+}
+
+html {
+  
+  font-size: 62.5%;
+
+}

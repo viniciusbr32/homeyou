@@ -1,0 +1,56 @@
+.footer-bg {
+
+  background: var(--white-200);
+  padding: 5rem 0;
+}
+.footer-conteudo {
+
+  display: flex;
+  align-items: center;
+  margin-top: 7rem;
+  padding-bottom: 5rem;
+  gap: 5rem;
+ 
+}
+
+.ul-produtos {
+
+  display: flex;
+  align-items: center;
+  gap: 13.5rem;
+  
+}
+
+.ul-produto h3 {
+
+  white-space: nowrap;
+}
+
+
+@media (max-width:800px) {
+
+
+ footer .logo {
+
+    display: none;
+  }
+
+ 
+}
+
+@media (max-width:800px) {
+
+  .ul-produtos {
+    gap: 8rem;
+   }
+}
+
+@media (max-width:600px) {
+
+  .ul-produtos {
+
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+  }
+}

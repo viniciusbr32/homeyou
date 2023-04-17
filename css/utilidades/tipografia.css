@@ -1,0 +1,62 @@
+.font-xs,
+.font-xs-b{
+  font: 500 1.8rem/1.6 'Montserrat', sans-serif;
+}
+
+.font-xs-b{
+
+  font-weight: 600;
+}
+
+.font-p-card{
+  font: 400 1.6rem/1.6 'Montserrat', sans-serif;
+}
+
+.font-s{
+  font: 600 2.4rem 'Montserrat', sans-serif;
+}
+
+.font-m{
+  font: 600 2.8rem 'Montserrat', sans-serif;
+}
+
+.font-l{
+  font: 600 3.2rem 'Montserrat', sans-serif;
+}
+
+
+.font-xl{
+  font: 600 4.0rem 'Montserrat', sans-serif;
+}
+
+
+
+
+@media (max-width:1200px) {
+
+  .font-xl{
+
+    font-size: 3.2rem;
+  }
+  
+  .font-l{
+    font-size: 2.5rem;
+  }
+}
+
+
+@media (max-width:600px) {
+
+
+
+
+.font-xs {
+
+  font-size: 1.3rem;
+}
+
+.font-xl{
+  font: 600 2.8rem 'Montserrat', sans-serif;
+}
+}
+
